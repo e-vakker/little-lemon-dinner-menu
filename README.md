@@ -8,3 +8,11 @@
 <img src="https://user-images.githubusercontent.com/93353925/213902838-d9f413e5-bfb0-4b3f-a1cc-87a31854eb6b.png" width="300">
 &emsp;
 <img src="https://user-images.githubusercontent.com/93353925/213903448-c5594b0c-c669-4362-950f-234066c8f1dc.png" width="300">
+## Review criteria
+* Project compiles successfully on a simulator.
+* Views adopt the correct protocols.
+* Defined enumerations with appropriate cases.
+* Defined classes with appropriate properties.
+* Enumerations integrate successfully with the SwiftUI views.
+* The app displays the menu items as intended.
+* The app navigation functions as intended.
